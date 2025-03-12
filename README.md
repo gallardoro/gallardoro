@@ -1,16 +1,19 @@
-## Hi there 👋
+# ¡Hola! Soy Camilo Gallardo 👋
 
-<!--
-**gallardoro/gallardoro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🌍 Geólogo | 📊 Apasionado por la Ciencia de Datos
 
-Here are some ideas to get you started:
+- Explorando la intersección entre la Geología y la Ciencia de Datos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tecnologías y herramientas  
+
+- **Lenguajes:** Python 🐍 
+
+- **Bibliotecas:** Pandas, Numpy, Matplotlib 
+
+- **Control de versiones:** Git, GitHub  
+
+## 📫 Contáctame  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue?logo=linkedin)](www.linkedin.com/in/luis-camilo-gallardo-rojas-8b61332a7)  
+
+[![GitHub](https://img.shields.io/badge/GitHub-Perfil-black?logo=github)](https://github.com/gallardoro)  
